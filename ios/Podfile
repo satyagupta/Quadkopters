@@ -1,0 +1,1 @@
+pod 'react-native-image-crop-picker', :path => '../node_modules/react-native-image-crop-picker/ios'
